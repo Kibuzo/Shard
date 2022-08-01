@@ -44,7 +44,6 @@ using RankDefinition = Server.Guilds.RankDefinition;
 #endregion
 
 
-//Just added this comment to see how to make pull requests
 namespace Server.Mobiles
 {
 
